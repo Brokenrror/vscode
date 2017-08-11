@@ -6,5 +6,5 @@ int main(){
 //this line is changed frome web;;
     printf("good luck ,vscode");
     return0;
-    
+// the change to be one show is ok; 
 }
