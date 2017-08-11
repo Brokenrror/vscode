@@ -3,5 +3,8 @@
 int main(){
     printf("hello,git");
     return 0;
+//this line is changed frome web;;
+    printf("good luck ,vscode");
+    return0;
     
 }
