@@ -7,4 +7,5 @@ int main(){
     printf("good luck ,vscode");
     return0;
 // the change to be one show is ok; 
+//this is the username and passwd test.
 }
