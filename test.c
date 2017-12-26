@@ -8,7 +8,5 @@ int main(){
     return0;
 // the change to be one show is ok; 
 //this is the username。
-//the scend test
-hello.c
 
 }
